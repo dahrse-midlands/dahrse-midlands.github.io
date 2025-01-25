@@ -2,17 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dahrse-midlands.github.io/</loc>
-    <lastmod>2025-01-25T15:10:37+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/posts/</loc>
-    <lastmod>2025-01-25T15:10:37+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/posts/setting-up-a-hugo-site-like-dahrse-midlands-website/</loc>
-    <lastmod>2025-01-25T15:10:37+00:00</lastmod>
-  </url><url>
     <loc>https://dahrse-midlands.github.io/categories/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/community/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/categories/community/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/communitynetwork/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/dahrse/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/communitynetwork/dahrse-midlands-community-showcase/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/midlands/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/network/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/tags/</loc>
+    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/dahrse-at-rse-midlands-2025/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/events/rse-midlands-2025/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/posts/rse-midlands-2025/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/events/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/posts/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/categories/ssi/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/ssi-fellows/</loc>
+    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/inaugural/</loc>
+    <lastmod>2025-01-25T18:02:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/ssi/</loc>
+    <lastmod>2025-01-25T18:02:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/events/ssi-inaugural-meeting/</loc>
+    <lastmod>2025-01-25T18:02:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/posts/ssi-inaugural-meeting/</loc>
+    <lastmod>2025-01-25T18:02:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/posts/setting-up-a-hugo-site-like-dahrse-midlands-website/</loc>
+    <lastmod>2025-01-24T15:10:37+00:00</lastmod>
   </url>
 </urlset>

@@ -6,14 +6,62 @@
     <description>Recent content on DAHRSE-Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2025 15:10:37 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jan 2025 19:06:26 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DAHRSE-Midlands Community Showcase</title>
+      <link>https://dahrse-midlands.github.io/communitynetwork/dahrse-midlands-community-showcase/</link>
+      <pubDate>Sat, 25 Jan 2025 19:06:26 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/communitynetwork/dahrse-midlands-community-showcase/</guid>
+      <description>A short summary of the content</description>
+    </item>
+    
+    <item>
+      <title>DAHRSE-Midlands at the RSE Midlands 2025</title>
+      <link>https://dahrse-midlands.github.io/events/rse-midlands-2025/</link>
+      <pubDate>Sat, 25 Jan 2025 18:06:26 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/events/rse-midlands-2025/</guid>
+      <description>DAHRSE-Midlands will participate in the Software Sustainability Institute (SSI) session at the RSE Midlands 2025 Conference.</description>
+    </item>
+    
+    <item>
+      <title>DAHRSE-Midlands at the RSE Midlands 2025</title>
+      <link>https://dahrse-midlands.github.io/posts/rse-midlands-2025/</link>
+      <pubDate>Sat, 25 Jan 2025 18:06:26 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/posts/rse-midlands-2025/</guid>
+      <description>DAHRSE-Midlands will participate in the Software Sustainability Institute (SSI) session at the RSE Midlands 2025 Conference. RSE Midlands 2025 will take place on Monday 7th April 2025 at The Exchange, hosted by the University of Birmingham&amp;rsquo;s Advanced Research Computing team.
+For more detials, please go to RSE Midlands Website - https://rse-midlands.github.io.</description>
+    </item>
+    
+    <item>
+      <title>SSI Inaugural Meeting: Announcing New Fellows on January 30, 2025</title>
+      <link>https://dahrse-midlands.github.io/events/ssi-inaugural-meeting/</link>
+      <pubDate>Sat, 25 Jan 2025 18:02:26 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/events/ssi-inaugural-meeting/</guid>
+      <description>SSI Inaugural Meeting: Announcing New Fellows on January 30, 2025</description>
+    </item>
+    
+    <item>
+      <title>SSI Inaugural Meeting: Announcing New Fellows on January 30, 2025</title>
+      <link>https://dahrse-midlands.github.io/posts/ssi-inaugural-meeting/</link>
+      <pubDate>Sat, 25 Jan 2025 18:02:26 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/posts/ssi-inaugural-meeting/</guid>
+      <description>DAHRSE-Midlands awarded Software Sustainability Institute (SSI) Fellowship. The inaugural meeting for announcing the fellowship will take place on Thursday 30 January 14:00-17:00 (GMT).
+The fellowship will help foster collaboration and innovation among like-minded professionals. The announcement post is at the following SSI webpage Introducing the 2025 Fellowship Cohort: Insights and Celebrations.</description>
+    </item>
+    
     <item>
       <title>Setting Up a Hugo Site Like DAHRSE-Midlands Website</title>
       <link>https://dahrse-midlands.github.io/posts/setting-up-a-hugo-site-like-dahrse-midlands-website/</link>
-      <pubDate>Sat, 25 Jan 2025 15:10:37 +0000</pubDate>
+      <pubDate>Fri, 24 Jan 2025 15:10:37 +0000</pubDate>
       
       <guid>https://dahrse-midlands.github.io/posts/setting-up-a-hugo-site-like-dahrse-midlands-website/</guid>
-      <description>Coming soon.</description>
+      <description>Setting up a Hugo site with the Box template on GitHub Pages using GitHub Codespaces and a new repository can streamline your web development process. This guide walks you through the necessary steps, from installing Hugo in VSCode to creating and configuring your repositories, and finally deploying your site. By following these instructions, you&amp;rsquo;ll have a fully functional Hugo site hosted on GitHub Pages, just like the DAHRSE-Midlands website.
+Assumptions  Visual Studio Code (VSCode) is already installed.</description>
     </item>
     
   </channel>

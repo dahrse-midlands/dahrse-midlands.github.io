@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSI on DAHRSE-Midlands</title>
+    <link>https://dahrse-midlands.github.io/categories/ssi/</link>
+    <description>Recent content in SSI on DAHRSE-Midlands</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 18:06:26 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/categories/ssi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DAHRSE-Midlands at the RSE Midlands 2025</title>
+      <link>https://dahrse-midlands.github.io/events/rse-midlands-2025/</link>
+      <pubDate>Sat, 25 Jan 2025 18:06:26 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/events/rse-midlands-2025/</guid>
+      <description>DAHRSE-Midlands will participate in the Software Sustainability Institute (SSI) session at the RSE Midlands 2025 Conference.</description>
+    </item>
+    
+  </channel>
+</rss>
