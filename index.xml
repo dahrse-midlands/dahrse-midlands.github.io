@@ -6,7 +6,21 @@
     <description>Recent content on DAHRSE-Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 04 Apr 2025 17:06:26 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Prospects of Digital Arts and Humanities Research Software Engineers in the Midlands for AHRC Doctoral Landscape Awards</title>
+      <link>https://dahrse-midlands.github.io/posts/prospects-dahrse-midlands-2025/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/posts/prospects-dahrse-midlands-2025/</guid>
+      <description>In recent years, the integration of digital technologies into the arts and humanities has opened new avenues for research and innovation. One of the key drivers of this transformation is the emergence of Digital Arts and Humanities Research Software Engineers (DAHRSEs). These professionals possess a unique blend of technical expertise and a deep understanding of the arts and humanities, making them invaluable assets in the research landscape.
+The Role of DAHRSE in the Midlands The Midlands region of England, known for its rich cultural heritage and vibrant academic community, is an ideal setting for the growth of DAHRSE.</description>
+    </item>
+    
+>>>>>>> 4acf35eac96251dc62d65dbced814595c72e166d
     <item>
       <title>DAHRSE-Midlands Community Showcase</title>
       <link>https://dahrse-midlands.github.io/communitynetwork/dahrse-midlands-community-showcase/</link>
