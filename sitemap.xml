@@ -2,47 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dahrse-midlands.github.io/posts/dahrse-midlands-2025/</loc>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dahrse-midlands.github.io/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/posts/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/posts/prospects-dahrse-midlands-2025/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/categories/</loc>
-    <lastmod>2025-04-04T17:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/tags/community/</loc>
-    <lastmod>2025-04-04T17:06:26+00:00</lastmod>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/categories/community/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/dahrse-midlands-2025/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/events/dahrse-midlands-2025/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/events/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/midlands/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/categories/midlands/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/categories/ssi/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/ssi-fellows/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/</loc>
+    <lastmod>2025-07-26T18:22:26+00:00</lastmod>
+  </url><url>
+    <loc>https://dahrse-midlands.github.io/tags/community/</loc>
     <lastmod>2025-04-04T17:06:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/communitynetwork/</loc>
     <lastmod>2025-04-04T17:06:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/tags/dahrse/</loc>
-    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/</loc>
-    <lastmod>2025-01-25T19:06:26+00:00</lastmod>
+    <lastmod>2025-04-04T17:06:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/communitynetwork/dahrse-midlands-community-showcase/</loc>
     <lastmod>2025-04-04T17:06:26+00:00</lastmod>
   </url><url>
-    <loc>https://dahrse-midlands.github.io/tags/midlands/</loc>
-    <lastmod>2025-04-04T17:06:26+00:00</lastmod>
-  </url><url>
     <loc>https://dahrse-midlands.github.io/tags/network/</loc>
     <lastmod>2025-04-04T17:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/tags/</loc>
-    <lastmod>2025-04-04T17:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/posts/</loc>
-    <lastmod>2025-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/posts/prospects-dahrse-midlands-2025/</loc>
     <lastmod>2025-03-04T00:00:00+00:00</lastmod>
@@ -54,15 +66,6 @@
     <lastmod>2025-01-25T18:06:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/posts/rse-midlands-2025/</loc>
-    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/events/</loc>
-    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/categories/ssi/</loc>
-    <lastmod>2025-01-25T18:06:26+00:00</lastmod>
-  </url><url>
-    <loc>https://dahrse-midlands.github.io/tags/ssi-fellows/</loc>
     <lastmod>2025-01-25T18:06:26+00:00</lastmod>
   </url><url>
     <loc>https://dahrse-midlands.github.io/tags/inaugural/</loc>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SSI Fellows on DAHRSE-Midlands</title>
-    <link>https://dahrse-midlands.github.io/tags/ssi-fellows/</link>
-    <description>Recent content in SSI Fellows on DAHRSE-Midlands</description>
+    <title>Midlands on DAHRSE-Midlands</title>
+    <link>https://dahrse-midlands.github.io/categories/midlands/</link>
+    <description>Recent content in Midlands on DAHRSE-Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jul 2025 18:22:26 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/tags/ssi-fellows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jul 2025 18:22:26 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/categories/midlands/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DAHRSE-Midlands 2025</title>
       <link>https://dahrse-midlands.github.io/events/dahrse-midlands-2025/</link>
@@ -113,24 +113,6 @@ The location is easy to find and we provided additional information as follows:&
 &lt;p&gt;Our organising committee for this year is being led by &lt;a href=&#34;g.yeboah@warwick.ac.uk&#34;&gt;Godwin Yeboah&lt;/a&gt;. Please get in touch if you would like to join the committee.&lt;/p&gt;
 &lt;h2 id=&#34;sponsors&#34;&gt;Sponsor(s)&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.software.ac.uk/programmes/fellowship-programme&#34;&gt;&lt;img src=&#34;https://www.software.ac.uk/themes/ud/img/SSI_PRIMARY-LOGO.svg&#34; alt=&#34;Software Sustainability Institute&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>DAHRSE-Midlands at the RSE Midlands 2025</title>
-      <link>https://dahrse-midlands.github.io/events/rse-midlands-2025/</link>
-      <pubDate>Sat, 25 Jan 2025 18:06:26 +0000</pubDate>
-      
-      <guid>https://dahrse-midlands.github.io/events/rse-midlands-2025/</guid>
-      <description>DAHRSE-Midlands will participate in the Software Sustainability Institute (SSI) session at the RSE Midlands 2025 Conference.</description>
-    </item>
-    
-    <item>
-      <title>SSI Inaugural Meeting: Announcing New Fellows on January 30, 2025</title>
-      <link>https://dahrse-midlands.github.io/events/ssi-inaugural-meeting/</link>
-      <pubDate>Sat, 25 Jan 2025 18:02:26 +0000</pubDate>
-      
-      <guid>https://dahrse-midlands.github.io/events/ssi-inaugural-meeting/</guid>
-      <description>SSI Inaugural Meeting: Announcing New Fellows on January 30, 2025</description>
     </item>
     
   </channel>
