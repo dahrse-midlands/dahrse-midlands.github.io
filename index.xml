@@ -6,14 +6,24 @@
     <description>Recent content on DAHRSE-Midlands</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dahrse-midlands.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Call for Short Talks – DAHRSE-Midlands 2025 (12 Sept, University of Warwick)</title>
+      <title>Co-Creating DAHRSE Midlands: Vision, Voices, and Next Steps</title>
+      <link>https://dahrse-midlands.github.io/posts/co-creating-dahrse-midlands/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://dahrse-midlands.github.io/posts/co-creating-dahrse-midlands/</guid>
+      <description>On 5th November 2025, the Digital Arts and Humanities Research Software Engineers Midlands (DAHRSE Midlands) community gathered online for its first meeting. The theme “Co-Creating DAHRSE Midlands: Vision, Voices, and Next Steps” was all about collaboration, inclusivity, and building momentum for Digital Arts and Humanities Research Software Engineering in the Midlands.
+The DAHRSE Midlands community is growing as a collaborative space for Digital Arts and Humanities Research Software Engineers (RSEs) across the region.</description>
+    </item>
+    
+    <item>
+      <title>Call for Short Talks – DAHRSE-Midlands 2025 (5 Nov, University of Warwick)</title>
       <link>https://dahrse-midlands.github.io/posts/dahrse-midlands-2025/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
       
       <guid>https://dahrse-midlands.github.io/posts/dahrse-midlands-2025/</guid>
-      <description>DAHRSE-Midlands 2025 will take place at the University of Warwick Library. DAHRSE Midlands 2025 will take place on Friday 12th September 2025.
+      <description>DAHRSE-Midlands 2025 will take place at the University of Warwick. DAHRSE Midlands 2025 will take place on Wednesday 5th November 2025.
 For more detials on submitting a talk, please go to DAHRSE Midlands 2025 page.</description>
     </item>
     
@@ -23,91 +33,35 @@ For more detials on submitting a talk, please go to DAHRSE Midlands 2025 page.</
       <pubDate>Sat, 26 Jul 2025 18:22:26 +0000</pubDate>
       
       <guid>https://dahrse-midlands.github.io/events/dahrse-midlands-2025/</guid>
-      <description>&lt;p&gt;You are &lt;a href=&#34;https://tinyurl.com/Call-for-Short-Talks&#34;&gt;invited to submit a short talk for Digital Arts and Humanities Research Software Engineers in the Midlands 2025&lt;/a&gt; (DAHRSE-Midlands 2025)—a regional event that brings together research software engineers and related professionals, such as digital Research Technical Professionals, working in the digital humanities and arts across the UK Midlands.&lt;/p&gt;
-&lt;p&gt;Friday 12th September 2025 sees the first edition of the DAHRSE Midlands meeting.
-This year&amp;rsquo;s event is being hosted by the Dr Godwin Yeboah
-at the University of Warwick’s &lt;a href=&#34;https://warwick.ac.uk/services/library/&#34;&gt;Library&lt;/a&gt;,
-and is sponsored by &lt;a href=&#34;https://www.software.ac.uk/programmes/fellowship-programme&#34;&gt;SSI (the Software Sustainability Institute)&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Post-Event Update:
+The DAHRSE-Midlands workshop originally planned as an in-person event was delivered in a scaled-down online format on 5th November 2025. This adjustment allowed us to maintain the workshop’s core objectives while making participation more accessible for our community. Despite the change in format, the event successfully fostered collaboration and knowledge exchange among attendees.&lt;/p&gt;
+&lt;p&gt;You are &lt;a href=&#34;https://tinyurl.com/Call-for-Short-Talks&#34;&gt;invited to submit a short talk for Digital Arts and Humanities Research Software Engineers in the Midlands 2025&lt;/a&gt; (DAHRSE-Midlands 2025)—a regional event that brings together research software engineers and related professionals, such as digital Research Technical Professionals, working in the digital humanities and arts across the UK Midlands.&lt;/p&gt;
+&lt;p&gt;Wednesday 5th November 2025 sees the first edition of the DAHRSE Midlands meeting.
+This year’s event is being hosted by the Dr Godwin Yeboah
+at the University of Warwick’s &lt;a href=&#34;https://warwick.ac.uk/services/conferences/spaces/scarman/&#34;&gt;Scarman building&lt;/a&gt;, and is sponsored by &lt;a href=&#34;https://www.software.ac.uk/programmes/fellowship-programme&#34;&gt;SSI (the Software Sustainability Institute)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This year’s inaugural meeting is a chance to build community, meet new and old friends, and learn more about the incredible
 breadth of skills DAHRSEs in the Midlands possess.&lt;/p&gt;
-&lt;p&gt;Below you will find the tentative or provisional arrangements for the day.&lt;/p&gt;
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Time&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;Activity&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;10:30&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Registration and refreshments&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;11:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Introduction and welcome&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;11:10&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Sponsor talk:&lt;/strong&gt; Software Sustainability Institute (TBC)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;11:20&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Keynote Address:&lt;/strong&gt; (TBC)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;12:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Presentation&lt;/strong&gt; (TBC)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;12:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Lunch&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;13:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Presentataion&lt;/strong&gt; Presentations 2, 3, and 4 (20 min each or lightning talks)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;14:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Refreshments (10)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;14:10&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Presentataion&lt;/strong&gt; Presentations 5 (20 min or lightning talks)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Community Discussion and Closing Remark&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;15:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;End&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
 &lt;h2 id=&#34;registration&#34;&gt;Registration&lt;/h2&gt;
 &lt;p&gt;We didn&amp;rsquo;t want finances to be a barrier to any attendees, and so &lt;a href=&#34;https://www.software.ac.uk/programmes/fellowship-programme&#34;&gt;the Software Sustainability Institute&lt;/a&gt; has generously offered support with any travel expenses. People are able to enquire if they would like to take advantage of this help.&lt;/p&gt;
 &lt;h2 id=&#34;location-and-travel&#34;&gt;Location and travel&lt;/h2&gt;
 &lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;p&gt;The meeting will be held at the University of Warwick Library, Gibbet Hill Road, Coventry CV4 7AL.
-The location is easy to find and we provided additional information as follows:&lt;/p&gt;
+&lt;p&gt;The conference will be held in the Scarman Building, Scarman Road, University of Warwick, Coventry, CV4 7SH. The location is easy to find and we provided additional information on &lt;a href=&#34;https://warwick.ac.uk/services/conferences/location&#34;&gt;How to find Scarman building&lt;/a&gt;. You may also be interested in a &lt;a href=&#34;https://warwick.ac.uk/scarman/tour&#34;&gt;virtual tour&lt;/a&gt;! The location is easy to find and we provided additional information as follows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://maps.app.goo.gl/HmPCR2vX8qRZcNQv7&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://maps.app.goo.gl/omComwo6mz3NL5TA7&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://w3w.co/dips.occupy.pump&#34;&gt;What3Words&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.openstreetmap.org/way/31117369&#34;&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.openstreetmap.org/way/56066280#map=19/52.38266/-1.56714&#34;&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://campus.warwick.ac.uk/search/623c88f5421e6f5928c0e57c?projectId=warwick&#34;&gt;University of Warwick Interactive Campus Map showing The Library&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://campus.warwick.ac.uk//search/623c8856421e6f5928c0c78c&#34;&gt;University of Warwick Interactive Campus Map showing Scarman Conference Centre&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;travel&#34;&gt;Travel&lt;/h3&gt;
-&lt;p&gt;The University provided information for travel to the University of Warwick Library: &lt;a href=&#34;https://warwick.ac.uk/services/library/using/visiting/&#34;&gt;https://warwick.ac.uk/services/library/using/visiting/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The University provided information for travel to the University of Warwick Conferences locations: &lt;a href=&#34;https://warwick.ac.uk/services/conferences/location&#34;&gt;https://warwick.ac.uk/services/conferences/location&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;train&#34;&gt;Train&lt;/h4&gt;
 &lt;p&gt;If you were travelling by train, Coventry is on the West Coast Mainline and serviced by regular trains from London Euston, Birmingham (New Street and International) and Leicester. It was easy to get a taxi or bus from &lt;a href=&#34;http://www.nationalrail.co.uk/stations/COV/details.html&#34;&gt;Coventry Train Station&lt;/a&gt; so you may have had to book a taxi in advance if you prefer not to &lt;a href=&#34;https://maps.app.goo.gl/wHnVyjMho5Y7qAms8&#34;&gt;walk&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Please note that &lt;a href=&#34;https://www.nationalrail.co.uk/stations/canley/&#34;&gt;Canley&lt;/a&gt; and &lt;a href=&#34;https://www.nationalrail.co.uk/stations/tile-hill/&#34;&gt;Tile Hill&lt;/a&gt; train stations do not have taxi ranks. These stations are served by trains from Birmingham, London, Milton Keynes, Coventry, Northampton and Rugby. You could have gotten a bus to us from close to the stations.&lt;/p&gt;
@@ -116,11 +70,14 @@ The location is easy to find and we provided additional information as follows:&
 &lt;p&gt;The 11 and 12 bus routes may be ideal from Coventry. Both buses call at the Rail Station Bridge stop on Warwick Road; this stop is few minutes walk from Coventry station as shown on &lt;a href=&#34;https://maps.app.goo.gl/NzFK3rVHBS17jQ7f9&#34;&gt;Google maps&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The U1 and U2 buses may be ideal from Leamington Spa. Both services stop at Parish Church Stand B; a seven-minute walk from Leamington Spa station as shown on &lt;a href=&#34;https://maps.app.goo.gl/3oJBDrtKQRPyA8dJ6&#34;&gt;Google maps&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;car&#34;&gt;Car&lt;/h4&gt;
-&lt;p&gt;If you were travelling by car, is located within the University of Warwick campus. Both &lt;a href=&#34;https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf&#34;&gt;static&lt;/a&gt; and &lt;a href=&#34;https://warwick.ac.uk/maps/&#34;&gt;interactive&lt;/a&gt; central campus are available from the provided links.&lt;/p&gt;
+&lt;p&gt;If you were travelling by car, the postcode for Scarman building is CV4 7SH and it is located within the University of Warwick campus.&lt;/p&gt;
+&lt;p&gt;Scarman conference centre is located on central campus, which is signposted off Gibbet Hill Road. Both &lt;a href=&#34;https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf&#34;&gt;static&lt;/a&gt; and &lt;a href=&#34;https://warwick.ac.uk/maps/&#34;&gt;interactive&lt;/a&gt; central campus are available from the provided links.&lt;/p&gt;
 &lt;h2 id=&#34;further-practical-information&#34;&gt;Further practical information&lt;/h2&gt;
-&lt;p&gt;Car parks, or parkings, are marked on the &lt;a href=&#34;https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf&#34;&gt;PDF campus map&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Warwick Conferences provide general &lt;a href=&#34;https://www.bmss.org.uk/media/resources/delegate_information_-_radcliffe_scarman_and_the_slate_2023_-_2024.pdf&#34;&gt;information for delegates at Scarman events&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Car parks are marked on the &lt;a href=&#34;https://warwick.ac.uk/about/visiting/maps/map_central-campus-september_20204.pdf&#34;&gt;PDF campus map&lt;/a&gt;, anyone coming by car is recommended to park in the Scarman car park (turn off towards the Scarman building and continue past reception to the car park behind the building).&lt;/p&gt;
 &lt;h2 id=&#34;organising-committee&#34;&gt;Organising Committee&lt;/h2&gt;
-&lt;p&gt;Our organising committee for this year is being led by &lt;a href=&#34;g.yeboah@warwick.ac.uk&#34;&gt;Godwin Yeboah&lt;/a&gt;. Please get in touch if you would like to join the committee.&lt;/p&gt;
+&lt;p&gt;Our organising committee for this year is being led by &lt;a href=&#34;https://www.software.ac.uk/fellowship-programme/godwin-yeboah&#34;&gt;Godwin Yeboah&lt;/a&gt;. Please get in touch if you would like to join the committee.&lt;/p&gt;
+&lt;p&gt;Our organising committee for this year is being led by Godwin Yeboah. Please get in touch if you would like to join the organising committee (Catherine Smith, Iain Emsley, Godwin Yeboah).&lt;/p&gt;
 &lt;h2 id=&#34;sponsors&#34;&gt;Sponsor(s)&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.software.ac.uk/programmes/fellowship-programme&#34;&gt;&lt;img src=&#34;https://www.software.ac.uk/themes/ud/img/SSI_PRIMARY-LOGO.svg&#34; alt=&#34;Software Sustainability Institute&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
